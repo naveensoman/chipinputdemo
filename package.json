@@ -1,0 +1,22 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "radium": "^0.25.2",
+    "react": "^16.8.6",
+    "react-autosuggest": "^9.4.3",
+    "react-chips": "^0.8.0",
+    "react-dom": "^16.8.6",
+    "react-scripts": "0.9.5",
+    "themeable": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
